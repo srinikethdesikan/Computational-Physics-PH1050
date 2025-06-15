@@ -21,5 +21,4 @@ Each assignment is provided as a Jupyter notebook (.ipynb).
 
 
 
-S Sriniketh Desikan
 
