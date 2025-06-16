@@ -19,6 +19,8 @@ This repository contains my set of assignments for the introductory course on  *
 Each assignment is provided as a Jupyter notebook (.ipynb).
 
 
+## Credits
 
+Done as a part of coursework at IIT Madras.
 
 
