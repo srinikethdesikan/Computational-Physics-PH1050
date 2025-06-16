@@ -1,4 +1,4 @@
-# Computational Physics Assignments
+# Computational Physics
 
 This repository contains my set of assignments for the introductory course on  *Foundations of Computational Physics (PH1050)* course.
 
